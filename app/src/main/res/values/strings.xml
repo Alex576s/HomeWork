@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">FirstApp</string>
-    <string name="my_text">Программист</string>
-    <string name="my_text1">Привет!</string>
-    <string name="my_text2">Здравствуйте!</string>
+
+    <string name="title">Все наоборот</string>
+    <string name="result">Результат</string>
+    <string name="convert">Преобразовать</string>
+    <string name="countSymbol">Количество символов</string>
+    <string name="inputText">Введите текст</string>
+
 </resources>

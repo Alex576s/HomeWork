@@ -5,4 +5,5 @@
     <color name="screenBackground"> #72EBD7</color>
     <color name="monitor">#00B0FF</color>
     <color name="green">#76FF03</color>
+    <color name="yellow">#FFEA00</color>
 </resources>
